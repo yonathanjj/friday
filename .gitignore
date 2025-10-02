@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Environment variables file (NEVER commit your secret keys!)
+.env
+
+# Other common files
+*.pyc
